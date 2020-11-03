@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/hassan.unity
+  isLoaded: 1
+  isActive: 1
